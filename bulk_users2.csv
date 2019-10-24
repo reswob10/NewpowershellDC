@@ -1,0 +1,3 @@
+firstname,middleInitial,lastname,username,password,ou
+Sam,B,Eagle,eagles,supersecret#$34,"OU=Users,DC=XXXXX,DC=XXXXX"
+Sarah,I,Giant,giants,1vegotword$,"OU=Users,DC=XXXXX,DC=XXXXX"

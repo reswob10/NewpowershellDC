@@ -111,7 +111,7 @@ foreach ($User in $ADUsers)
 }
 
 # Install sysmon64 with swift on security config
-$command = 'c:\tools\Sysmon64.exe --accepteula -i c:\tools\swift_sysmon_config.xml'
+$command = 'c:\tools\Sysmon64.exe -accepteula -i c:\tools\swift_sysmon_config.xml'
 iex $command
 
 # Enable Windows Driver Framework
